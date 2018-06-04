@@ -1,0 +1,60 @@
+.about-backgroundColor {
+	background-color: black;
+}
+.about-centerBackground {
+	padding: 10px;
+	margin-top: 40px;
+	margin-left: 40px;
+	margin-right: 40px;
+	height:800px;
+	background-color: white;
+}
+.me-abstract {
+	padding-top: 40px;
+	text-align: center;   
+    font-size: 30px;
+    font-weight: 40px;
+}
+.me-one {
+	padding-top: 30px;
+	text-align: center;
+	margin:auto;
+    font-size: 15px; 
+    width: 400px; 
+    color: rgb(133,161,201);
+}
+.about-line {
+	margin-left: 1px;
+	margin-right: 1px;
+	padding-top: 40px;
+	background-color: white;
+}
+.contact-me-line {
+
+	margin-left: 60px;
+	margin-right: 60px;
+	padding-top: 1px;
+	background-color: rgb(154,154,154);
+}
+.about-contect-me {
+	height: 40%;
+  	text-align: center;
+  	max-height: 170px;
+ 	margin: 20px 0px;
+}
+.about-detial ul {
+  margin-top: 10px;
+}
+
+.about-detial li {
+	list-style-type:none;
+  	font-size: 16px;
+  	line-height: 30px;
+}
+
+.about-detial a {
+	target:new front;
+  	text-decoration: none;
+  	color: rgb(0, 0, 0);
+}
+
